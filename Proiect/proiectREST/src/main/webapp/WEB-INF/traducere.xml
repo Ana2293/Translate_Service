@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dictionary>
+
+    <Word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>cat</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>Pisica</word-translate>
+        </equivalent>
+    </Word>
+
+    <Word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>Dog</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>Caine</word-translate>
+        </equivalent>
+    </Word>
+
+    <Word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>Rabbit</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>Iepure</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>french</language>
+            <word-translate>lapin</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>portuguese</language>
+            <word-translate>puro</word-translate>
+        </equivalent>
+    </Word>
+
+</Dictionary>
