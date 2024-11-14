@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<dictionary>
+
+    <word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>day</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>zi</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>french</language>
+            <word-translate>journée</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>spanish</language>
+            <word-translate>dia</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>german</language>
+            <word-translate>tag</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>italian</language>
+            <word-translate>giorno</word-translate>
+        </equivalent>
+    </word>
+
+    <word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>book</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>carte</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>french</language>
+            <word-translate>livre</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>spanish</language>
+            <word-translate>libro</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>german</language>
+            <word-translate>buchen</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>italian</language>
+            <word-translate>prenotare</word-translate>
+        </equivalent>
+    </word>
+
+    <word>
+        <equivalent>
+            <language>english</language>
+            <word-translate>flower</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>romanian</language>
+            <word-translate>floare</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>french</language>
+            <word-translate>fleur</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>spanish</language>
+            <word-translate>flor</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>german</language>
+            <word-translate>blume</word-translate>
+        </equivalent>
+
+        <equivalent>
+            <language>italian</language>
+            <word-translate>fiore</word-translate>
+        </equivalent>
+    </word>
+
+</dictionary>
